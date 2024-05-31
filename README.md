@@ -14,8 +14,7 @@ Images are normally static, that means they do not provide dynamic views. By usi
 
 ![2](https://github.com/CeiSei/POV_Changer/assets/73943114/f0131011-0d57-4b5f-b770-d4b197ac6e68)
 
-
-This project has two functions.
+3. This project has two functions.
 
 (1) POV-Change
 
@@ -28,3 +27,14 @@ This project has two functions.
 - By using '[' or ']', project can reduce errors in image.
 - To reduce black area on the image, press ']' on your keyboard.
 - To reduce boundary on the image, press '[' on your keyboard.
+
+## Examples
+-----------------------
+Using 'building1.jpg'.
+
+### 1. POV-Change
+https://github.com/CeiSei/POV_Changer/assets/73943114/877d7e59-5d1f-4514-8ecb-e12f875f6f16
+
+### 2. Interpolation
+https://github.com/CeiSei/POV_Changer/assets/73943114/e7f98a50-e2f3-45cd-81f0-3b12e06c7623
+
