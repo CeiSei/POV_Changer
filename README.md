@@ -38,3 +38,12 @@ https://github.com/CeiSei/POV_Changer/assets/73943114/877d7e59-5d1f-4514-8ecb-e1
 ### 2. Interpolation
 https://github.com/CeiSei/POV_Changer/assets/73943114/e7f98a50-e2f3-45cd-81f0-3b12e06c7623
 
+## How does it works?
+-----------------------
+
+
+
+## References
+-----------------------
+- basic function of getting points / waprPerspective function example
+https://mvje.tistory.com/129 
