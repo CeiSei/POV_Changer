@@ -12,6 +12,8 @@ Images are normally static, that means they do not provide dynamic views. By usi
    !!! Important !!!
    Please choose six points in order. 
 
+![2](https://github.com/CeiSei/POV_Changer/assets/73943114/f0131011-0d57-4b5f-b770-d4b197ac6e68)
+
 
 This project has two functions.
 
